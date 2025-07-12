@@ -1,0 +1,34 @@
+2025-04-26 12:00:35,407 [WARNING] Attempt 1 failed: No such file or directory: 'C:\Users\Black\AppData\Local\Temp\_MEI131522\audio_output/jupiter_wake_up.mp3'.
+2025-04-26 12:00:37,407 [WARNING] Attempt 2 failed: No such file or directory: 'C:\Users\Black\AppData\Local\Temp\_MEI131522\audio_output/jupiter_wake_up.mp3'.
+2025-04-26 12:00:40,408 [WARNING] Attempt 3 failed: No such file or directory: 'C:\Users\Black\AppData\Local\Temp\_MEI131522\audio_output/jupiter_wake_up.mp3'.
+2025-04-26 12:00:40,408 [ERROR] Wake-up playback failed after 3 attempts.
+2025-04-26 12:27:39,468 [WARNING] Attempt 1 failed: No such file or directory: 'C:\Users\Black\AppData\Local\Temp\_MEI121002\audio_output/jupiter_wake_up.mp3'.
+2025-04-26 12:27:41,469 [WARNING] Attempt 2 failed: No such file or directory: 'C:\Users\Black\AppData\Local\Temp\_MEI121002\audio_output/jupiter_wake_up.mp3'.
+2025-04-26 12:27:44,470 [WARNING] Attempt 3 failed: No such file or directory: 'C:\Users\Black\AppData\Local\Temp\_MEI121002\audio_output/jupiter_wake_up.mp3'.
+2025-04-26 12:27:44,470 [ERROR] Wake-up playback failed after 3 attempts.
+2025-04-26 12:28:45,047 [ERROR] [Error] Could not reach Jupiter: HTTPConnectionPool(host='localhost', port=7861): Max retries exceeded with url: /message (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A448B6DF90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-04-26 12:37:03,837 [WARNING] Attempt 1 failed: No such file or directory: 'C:\Users\Black\AppData\Local\Temp\_MEI83162\audio_output/jupiter_wake_up.mp3'.
+2025-04-26 12:37:05,838 [WARNING] Attempt 2 failed: No such file or directory: 'C:\Users\Black\AppData\Local\Temp\_MEI83162\audio_output/jupiter_wake_up.mp3'.
+2025-04-26 12:37:08,838 [WARNING] Attempt 3 failed: No such file or directory: 'C:\Users\Black\AppData\Local\Temp\_MEI83162\audio_output/jupiter_wake_up.mp3'.
+2025-04-26 12:37:08,838 [ERROR] Wake-up playback failed after 3 attempts.
+2025-04-26 12:46:21,284 [WARNING] Attempt 1 failed: No such file or directory: 'C:\Users\Black\AppData\Local\Temp\_MEI58642\audio_output/jupiter_wake_up.mp3'.
+2025-04-26 12:46:23,285 [WARNING] Attempt 2 failed: No such file or directory: 'C:\Users\Black\AppData\Local\Temp\_MEI58642\audio_output/jupiter_wake_up.mp3'.
+2025-04-26 12:46:26,286 [WARNING] Attempt 3 failed: No such file or directory: 'C:\Users\Black\AppData\Local\Temp\_MEI58642\audio_output/jupiter_wake_up.mp3'.
+2025-04-26 12:46:26,286 [ERROR] Wake-up playback failed after 3 attempts.
+2025-04-30 14:05:10,518 [WARNING] Attempt 1 failed: No such file or directory: 'C:\Users\Black\AppData\Local\Temp\_MEI95082\audio_output/jupiter_wake_up.mp3'.
+2025-04-30 14:05:12,520 [WARNING] Attempt 2 failed: No such file or directory: 'C:\Users\Black\AppData\Local\Temp\_MEI95082\audio_output/jupiter_wake_up.mp3'.
+2025-04-30 14:05:15,520 [WARNING] Attempt 3 failed: No such file or directory: 'C:\Users\Black\AppData\Local\Temp\_MEI95082\audio_output/jupiter_wake_up.mp3'.
+2025-04-30 14:05:15,520 [ERROR] Wake-up playback failed after 3 attempts.
+2025-04-30 14:47:24,040 [WARNING] Attempt 1 failed: No such file or directory: 'C:\Users\Black\AppData\Local\Temp\_MEI125042\audio_output/jupiter_wake_up.mp3'.
+2025-04-30 14:47:26,041 [WARNING] Attempt 2 failed: No such file or directory: 'C:\Users\Black\AppData\Local\Temp\_MEI125042\audio_output/jupiter_wake_up.mp3'.
+2025-04-30 14:47:29,046 [WARNING] Attempt 3 failed: No such file or directory: 'C:\Users\Black\AppData\Local\Temp\_MEI125042\audio_output/jupiter_wake_up.mp3'.
+2025-04-30 14:47:29,047 [ERROR] Wake-up playback failed after 3 attempts.
+2025-04-30 15:12:56,520 [WARNING] Attempt 1 failed: No such file or directory: 'C:\Users\Black\AppData\Local\Temp\_MEI132642\audio_output/jupiter_wake_up.mp3'.
+2025-04-30 15:12:58,521 [WARNING] Attempt 2 failed: No such file or directory: 'C:\Users\Black\AppData\Local\Temp\_MEI132642\audio_output/jupiter_wake_up.mp3'.
+2025-04-30 15:13:01,522 [WARNING] Attempt 3 failed: No such file or directory: 'C:\Users\Black\AppData\Local\Temp\_MEI132642\audio_output/jupiter_wake_up.mp3'.
+2025-04-30 15:13:01,522 [ERROR] Wake-up playback failed after 3 attempts.
+2025-06-01 17:05:53,096 [WARNING] Attempt 1 failed: No such file or directory: 'C:\Users\Black\AppData\Local\Temp\_MEI105122\audio_output/jupiter_wake_up.mp3'.
+2025-06-01 17:05:55,098 [WARNING] Attempt 2 failed: No such file or directory: 'C:\Users\Black\AppData\Local\Temp\_MEI105122\audio_output/jupiter_wake_up.mp3'.
+2025-06-01 17:05:58,099 [WARNING] Attempt 3 failed: No such file or directory: 'C:\Users\Black\AppData\Local\Temp\_MEI105122\audio_output/jupiter_wake_up.mp3'.
+2025-06-01 17:05:58,099 [ERROR] Wake-up playback failed after 3 attempts.
+2025-06-01 17:06:19,518 [ERROR] [Error] Could not reach Jupiter: HTTPConnectionPool(host='localhost', port=7861): Max retries exceeded with url: /message (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022B77EEEC10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
