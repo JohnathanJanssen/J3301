@@ -16,3 +16,23 @@ def orchestrate(user_input: str) -> Literal["fact", "skill", "conversation"]:
         return "skill"
 
     return "conversation"
+from fastapi import FastAPI
+from pydantic import BaseModel
+import orchestrator
+
+app = FastAPI()
+
+class Message(BaseModel):
+    text: str
+
+@app.get("/")
+def root():
+    return {"message": "Jupiter API is running."}
+
+@app.post("/message")
+async def post_message(message: Message):
+    try:
+        result = orchestrator.orchestrate(message.text)
+        return {"message": result}
+    except Exception as e:
+        return {"message": f"Jupiter encountered an error: {str(e)}"}
